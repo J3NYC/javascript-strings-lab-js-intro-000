@@ -1,6 +1,6 @@
-var greeting = "Hello, everybody!";
+var greeting == hook:"Hello, everybody!";
 
-var specialGuest = "Hello, Neil deGrasse Tyson"
+var specialGuest = "Neil deGrasse Tyson"
 
 var greetSpecialGuest = `Welcome ${specialGuest}! High ${3 + 2}!!!`;
 
