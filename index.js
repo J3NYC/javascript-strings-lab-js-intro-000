@@ -1,4 +1,4 @@
-var greeting == hook:"Hello, everybody!";
+var greeting = "Hello, everybody!";
 
 var specialGuest = "Neil deGrasse Tyson"
 
